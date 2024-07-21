@@ -10,4 +10,10 @@ Steps:
 6)Compile the Java files:
 javac Farmer.java Crop.java DatabaseUtils.java AgricultureManagementSystem.java
 7)Run the main class
-java AgricultureManagementSystem
+java AgricultureManagementSystem 
+
+## Prerequisites
+- Java Development Kit (JDK) 8 or higher
+- MySQL server
+- MySQL Connector/J (JDBC driver for MySQL)
+- A text editor or IDE for writing and running the Java code
